@@ -1290,31 +1290,31 @@ As referências abaixo são oficiais e servem para aprofundar os conceitos utili
 
 **Bazzite — documentação oficial**
 
-[Bazzite Documentation](https://docs.bazzite.gg/?utm_source=chatgpt.com)
+[Bazzite Documentation](https://docs.bazzite.gg/)
 
 A documentação oficial descreve o Bazzite como uma imagem personalizada baseada na família Fedora Atomic Desktop.
 
 **Distrobox — documentação oficial**
 
-[Distrobox Documentation](https://distrobox.it/?utm_source=chatgpt.com)
+[Distrobox Documentation](https://distrobox.it/)
 
 A documentação oficial explica a integração do Distrobox com o host e seu uso com container engines.
 
 **Distrobox — criação de containers e HOME personalizado**
 
-[distrobox-create documentation](https://distrobox.it/usage/distrobox-create/?utm_source=chatgpt.com)
+[distrobox-create documentation](https://distrobox.it/usage/distrobox-create/)
 
 A referência documenta, entre outras opções, a possibilidade de escolher um HOME personalizado para um container.
 
 **Podman — documentação oficial**
 
-[Podman Documentation](https://docs.podman.io/?utm_source=chatgpt.com)
+[Podman Documentation](https://docs.podman.io/)
 
 A documentação do Podman descreve o funcionamento de containers rootless e os conceitos associados.
 
 **Ubuntu — ciclo oficial de versões**
 
-[Ubuntu Release Cycle](https://ubuntu.com/about/release-cycle?utm_source=chatgpt.com)
+[Ubuntu Release Cycle](https://ubuntu.com/about/release-cycle)
 
 A Canonical registra oficialmente o Ubuntu 26.04 como uma versão LTS lançada em abril de 2026.
 
