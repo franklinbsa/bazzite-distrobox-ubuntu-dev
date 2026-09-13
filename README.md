@@ -22,3 +22,11 @@ Ubuntu 26.04 LTS
 ubuntu-dev
    ↓
 StorageSSD/DEV/projetos
+
+## Licença
+
+A documentação deste projeto está licenciada sob a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0).
+
+Copyright © 2026 Franklin Barbosa.
