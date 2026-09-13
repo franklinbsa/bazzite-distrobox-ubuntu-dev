@@ -4,19 +4,40 @@ Guia prático para criar um ambiente de desenvolvimento no Bazzite com Distrobox
 
 ## Linux Lab — Camada 1
 
-Este documento registra a fundação do ambiente de desenvolvimento do Linux Lab.
+## Visão geral
 
-A arquitetura utiliza:
+## Para quem é este tutorial
 
-- Bazzite como sistema host;
-- Podman em modo rootless;
-- Distrobox como camada de integração;
-- Ubuntu 26.04 LTS em um container dedicado;
-- HOME específico para o ambiente de desenvolvimento;
-- projetos armazenados fora do filesystem interno do container;
-- SSD separado como área física dos projetos.
+## Resultado esperado
 
-O ambiente de desenvolvimento criado nesta camada recebeu o nome:
+## Arquitetura utilizada
 
-```text
-ubuntu-dev
+## Ambiente confirmado
+
+## Bazzite como host
+
+## Podman rootless
+
+## Distrobox
+
+## Ubuntu 26.04 LTS
+
+## HOME dedicado
+
+## Projetos no StorageSSD
+
+## Estrutura de diretórios
+
+## Pré-requisitos
+
+## Passo a passo
+
+## Validação de leitura e escrita
+
+## Fatos confirmados
+
+## Hipóteses e limitações
+
+## Pendências
+
+## Próximas camadas
